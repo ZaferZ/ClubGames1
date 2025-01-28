@@ -1,0 +1,62 @@
+﻿@model List<Game>
+@{
+    Layout = "_Layout";
+}
+<div class="container mt-10">
+    <div class="row justify-content-center">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-header">
+                    <h4>User List</h4>
+                </div>
+                <div class="card-body">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Name</th>
+                                <th width="60%">Description</th>
+                                <th width="20%">Price for hour</th>
+                                <th width="20%">Winner Points</th>
+                                <th width="30%">Image Path</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Example User Row (replace with actual user data) -->
+                            @foreach (Game u in Model)
+                            {
+                                <tr>
+                                    <td>@u.Id</td>
+                                    <td>@u.Name</td>
+                                    <td>@u.Description</td>
+                                    <td>@u.PriceForHour</td>
+                                    <td>@u.WinnerPoints</td>
+                                    <td><img src="@u.ImagePath" width="200" height="150" alt="Post Image"></td>
+
+                                    <td>
+                                        <a class="btn btn-primary btn-sm"
+                                           asp-route-id="@u.Id"
+                                           asp-action="Edit"
+                                           asp-controller="Game">Edit</a>
+                                    </td>
+                                    <td>
+                                        <a asp-route-id="@u.Id"
+                                           asp-action="Delete"
+                                           asp-controller="Game"
+                                           class="btn btn-danger btn-sm">Delete</a>
+                                    </td>
+                                </tr>
+                            }
+                          
+                            <!-- Add more columns as needed -->
+                            <!-- Add more rows for additional users -->
+                        </tbody>
+                  
+                    </table>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+<a class="btn btn-primary btn-sm" asp-area="" asp-controller="Game" asp-action="Create">Create Game</a>

@@ -1,0 +1,270 @@
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\appsettings.Development.json
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\appsettings.json
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.staticwebassets.runtime.json
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.exe
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.deps.json
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.runtimeconfig.json
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.pdb
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.AssemblyInfoInputs.cache
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.AssemblyInfo.cs
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.csproj.CoreCompileInputs.cache
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.MvcApplicationPartsAssemblyInfo.cache
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.RazorAssemblyInfo.cache
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.RazorAssemblyInfo.cs
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets\msbuild.ClubGamesProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets\msbuild.build.ClubGamesProject.props
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClubGamesProject.props
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClubGamesProject.props
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets.pack.json
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets.build.json
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets.development.json
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\scopedcss\bundle\ClubGamesProject.styles.css
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\scopedcss\projectbundle\ClubGamesProject.bundle.scp.css
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\refint\ClubGamesProject.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.pdb
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.genruntimeconfig.cache
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\ref\ClubGamesProject.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.csproj.AssemblyReference.cache
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Humanizer.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\School\.Net programing\Project\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.csproj.CopyComplete
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\appsettings.json
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.staticwebassets.runtime.json
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.exe
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.deps.json
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.runtimeconfig.json
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.pdb
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.AssemblyInfo.cs
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.RazorAssemblyInfo.cache
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.RazorAssemblyInfo.cs
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\scopedcss\bundle\ClubGamesProject.styles.css
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\scopedcss\projectbundle\ClubGamesProject.bundle.scp.css
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.csproj.CopyComplete
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\refint\ClubGamesProject.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.pdb
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.genruntimeconfig.cache
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\ref\ClubGamesProject.dll
+C:\Users\ACER\Desktop\8BallPool\8BallPool\8BallPool\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout - Copy.cshtml.rz.scp.css
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\appsettings.Development.json
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\appsettings.json
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.staticwebassets.runtime.json
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.exe
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.deps.json
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.runtimeconfig.json
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.pdb
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Humanizer.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.csproj.AssemblyReference.cache
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.AssemblyInfoInputs.cache
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.AssemblyInfo.cs
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.csproj.CoreCompileInputs.cache
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.MvcApplicationPartsAssemblyInfo.cache
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.RazorAssemblyInfo.cache
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.RazorAssemblyInfo.cs
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets\msbuild.ClubGamesProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets\msbuild.build.ClubGamesProject.props
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClubGamesProject.props
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClubGamesProject.props
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets.pack.json
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets.build.json
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets.development.json
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout - Copy.cshtml.rz.scp.css
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\scopedcss\bundle\ClubGamesProject.styles.css
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\scopedcss\projectbundle\ClubGamesProject.bundle.scp.css
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.csproj.CopyComplete
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\refint\ClubGamesProject.dll
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.pdb
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.genruntimeconfig.cache
+E:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ref\ClubGamesProject.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\appsettings.Development.json
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\appsettings.json
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.staticwebassets.runtime.json
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.exe
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.deps.json
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.runtimeconfig.json
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\ClubGamesProject.pdb
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Humanizer.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.csproj.AssemblyReference.cache
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.AssemblyInfoInputs.cache
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.AssemblyInfo.cs
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.csproj.CoreCompileInputs.cache
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.MvcApplicationPartsAssemblyInfo.cache
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.RazorAssemblyInfo.cache
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.RazorAssemblyInfo.cs
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets.build.json
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets.development.json
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets\msbuild.ClubGamesProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets\msbuild.build.ClubGamesProject.props
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClubGamesProject.props
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClubGamesProject.props
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\staticwebassets.pack.json
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout - Copy.cshtml.rz.scp.css
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\scopedcss\bundle\ClubGamesProject.styles.css
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\scopedcss\projectbundle\ClubGamesProject.bundle.scp.css
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.csproj.CopyComplete
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\refint\ClubGamesProject.dll
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.pdb
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ClubGamesProject.genruntimeconfig.cache
+D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\obj\Debug\net6.0\ref\ClubGamesProject.dll

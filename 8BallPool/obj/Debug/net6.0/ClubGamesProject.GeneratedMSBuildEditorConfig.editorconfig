@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _8BallPool
+build_property.RootNamespace = _8BallPool
+build_property.ProjectDir = D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\School\.Net programing\Project\Club Games\Club Games\8BallPool\8BallPool
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/GameReservation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVJlc2VydmF0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/GameReservation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVJlc2VydmF0aW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/GameReservation/EndGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVJlc2VydmF0aW9uXEVuZEdhbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/GameReservation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVJlc2VydmF0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/GameReservation/MyReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVJlc2VydmF0aW9uXE15UmVzZXJ2YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/GameReservation/ShowGameHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVJlc2VydmF0aW9uXFNob3dHYW1lSGlzdG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/Game/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/Game/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/Game/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/Game/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/Home/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/Table/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/Table/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/Table/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/Shared/_Layout - Copy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQgLSBDb3B5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-bwg53h614z
+
+[D:/School/.Net programing/Project/Club Games/Club Games/8BallPool/8BallPool/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ihzym7b5hv

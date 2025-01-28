@@ -1,0 +1,45 @@
+﻿@model ShowGameHistoryVM
+<div class="container mt-10">
+    <div class="row justify-content-center">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-header">
+                    <h4>Game History List</h4>
+                </div>
+                <div class="card-body">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>WinnerName</th>
+                                <th>GameName</th>
+                                <th>TableNumber</th>
+                                <th>GamePoints</th>
+                                <th>EndTime</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Example User Row (replace with actual user data) -->
+                            @foreach (var u in Model.GameHistories)
+                            {
+                                <tr>
+                                    <td>@u.Id</td>
+                                    <td>@u.WinnerName</td>
+                                    <td>@u.GameName</td>
+                                    <td>@u.TableNumber</td>
+                                    <td>@u.GamePoints</td>
+                                    <td>@u.EndTime</td>
+                                </tr>
+                            }
+
+                            <!-- Add more columns as needed -->
+                            <!-- Add more rows for additional users -->
+                        </tbody>
+
+                    </table>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

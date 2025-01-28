@@ -1,0 +1,66 @@
+﻿@model CreateGameVM
+<div class="container mt-5">
+    <h2 class="mb-4">Create Game</h2>
+
+    <form method="post" enctype="multipart/form-data">
+        <!-- Game Name -->
+        <div class="form-group">
+            <label for="gameName">Game Name:</label>
+            <input type="text" class="form-control" id="gameName" name="Name" required>
+        </div>
+
+        <!-- Price For Hour -->
+        <div class="form-group">
+            <label for="priceForHour">Price For Hour:</label>
+            <input type="number" class="form-control" id="priceForHour" name="PriceForHour" min="0" step="0.01" required>
+        </div>
+
+        <!-- Description -->
+        <div class="form-group">
+            <label for="description">Description:</label>
+            <textarea class="form-control" id="description" name="Description" rows="4" required></textarea>
+        </div>
+
+        <!-- Winner Points -->
+        <div class="form-group">
+            <label for="winnerPoints">Winner Points:</label>
+            <input type="number" class="form-control" id="winnerPoints" name="WinnerPoints" min="0" required>
+        </div>
+
+        <!-- Image Upload -->
+        <div class="form-group">
+            <label for="image">Upload Image:</label>
+            <input type="file" class="form-control-file" id="ImageFile" name="ImageFile" onchange="previewImage(this)" required />
+        </div>
+
+        <!-- Image Preview Container -->
+        <div class="card mt-3" style="max-width: 300px;">
+            <div class="card-body">
+                <h6 class="card-title">Image Preview</h6>
+                <img id="imagePreview" class="card-img-top" alt="Image Preview">
+            </div>
+        </div>
+
+        <!-- Submit Button -->
+        <button type="submit" class="btn btn-primary mt-3">Submit</button>
+    </form>
+</div>
+
+<script>
+    // Function to preview the uploaded image
+    function previewImage(input) {
+        var preview = document.getElementById('imagePreview');
+        var file = input.files[0];
+        var reader = new FileReader();
+
+        reader.onloadend = function () {
+            preview.src = reader.result;
+        }
+
+        if (file) {
+            reader.readAsDataURL(file);
+        } else {
+            preview.src = "";
+        }
+    }
+</script>

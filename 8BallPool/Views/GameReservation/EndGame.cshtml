@@ -1,0 +1,40 @@
+﻿@model EndGameVM
+
+
+<div class="container mt-3">
+    <h2>End Game</h2>
+
+    <form asp-action="EndGame" method="post">
+        <input type="hidden" name="GameId" value="@Model.GameId" />
+        <input type="hidden" name="GameName" value="@Model.GameName" />
+        <input type="hidden" name="ReservationId" value="@Model.ReservationId" />
+        <input type="hidden" name="GamePoints" value="@Model.GamePoints" />
+        <input type="hidden" name="TableId" value="@Model.TableId" />
+        <dl class="row">
+            <dt class="col-sm-3">Reservation Id</dt>
+            <dd name="WinnerId" class="col-sm-9">@Model.ReservationId</dd>
+
+            <dt class="col-sm-3">Game Name</dt>
+            <dd name="WinnerId" class="col-sm-9">@Model.GameName</dd>
+
+            <dt class="col-sm-3">Table Id</dt>
+            <dd name="WinnerId" class="col-sm-9">@Model.TableId</dd>
+
+            <dt class="col-sm-3">Game Points</dt>
+            <dd name="WinnerId" class="col-sm-9">@Model.GamePoints</dd>
+        </dl>
+
+        <div class="form-group">
+            <label for="winner">Winner</label>
+            <select id="winner" name="WinnerId" class="form-control custom-select">
+                @foreach (var item in Model.Users)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+        </div>
+        <br/>
+        <br/>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

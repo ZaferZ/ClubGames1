@@ -1,0 +1,42 @@
+﻿@model CreateReservationVM
+<div class="container mt-5">
+    <h1 class="display-3">Edit Reservation</h1>
+    <form id="userCreationForm" method="post">
+        <div class="form-group">
+            <label for="cars">Game:</label>
+            <select id="cars" name="GameId">
+                @foreach (var item in Model.Games)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="cars">Player:</label>
+            <select id="cars" name="PlayerId">
+                @foreach (var item in Model.Users)
+                {
+
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="email">StartTime:</label>
+            <input value="@Model.StartTime" type="datetime-local" class="form-control" id="datetimepicker" name="StartTime">
+        </div>
+        <br>
+        <div class="form-group">
+            <label for="password">EndTime:</label>
+            <input value="@Model.EndTime" type="datetime-local" class="form-control" id="datetimepicker" name="EndTime">
+            @if (ViewBag.TimeError != null)
+            {
+                <div class="alert alert-danger" role="alert">
+                    @ViewBag.TimeError
+                </div>
+            }
+
+            <button type="submit" class="btn btn-primary" onclick="submitForm()">Create User</button>
+    </form>
+</div>

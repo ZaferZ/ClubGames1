@@ -1,0 +1,22 @@
+﻿@model MyReservationsVM
+<h2>My Reservatoins</h2>
+
+@foreach (var reservation in Model.GameReseravations)
+{
+    <div class="card mb-3" style="max-width: 740px;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+                <img src="@reservation.MyGame.ImagePath" class="card-img" alt="Post Image">
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">@reservation.MyGame.Name</h5>
+                    <p class="card-text">@reservation.MyGame.Description</p>
+                    <p class="card-subtitle">Starts: @reservation.StartTime.Hour:@reservation.StartTime.Minute</p>
+                    <p class="card-subtitle">Ends: @reservation.EndTime.Hour:@reservation.EndTime.Minute</p>
+                    <p class="card-subtitle">@reservation.DaysTillReservation()</p>
+                </div>
+            </div>
+        </div>
+    </div>
+} 

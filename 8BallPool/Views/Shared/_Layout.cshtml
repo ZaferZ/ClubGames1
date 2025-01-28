@@ -1,0 +1,210 @@
+﻿@using _8BallPool.Entities;
+@using _8BallPool.Extentions;
+@{
+    User loggedUser = this.ViewContext.HttpContext.Session.GetObject<User>("loggedUser");
+}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Site Metas -->
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <link rel="shortcut icon" href="~/images/favicon.png" type="image/x-icon">
+
+    <title>8 Ball Pool</title>
+
+    <!-- bootstrap core css -->
+    <link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" />
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <!-- fonts style -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:400,600,700&display=swap" rel="stylesheet" />
+    <!-- Custom styles for this template -->
+    <link href="~/css/style.css" rel="stylesheet" />
+    <!-- responsive style -->
+    <link href="~/css/responsive.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="hero_area">
+        <!-- header section strats -->
+        <div class="hero_bg_box">
+            <div class="img-box">
+                <img src="~/images/cover.jpg" alt="">
+            </div>
+        </div>
+
+        <header class="header_section">
+            <div class="header_top">
+                <div class="container-fluid">
+                    <div class="contact_link-container">
+                    </div>
+                </div>
+            </div>
+            <div class="header_bottom">
+                <div class="container-fluid">
+                    <nav class="navbar navbar-expand-lg custom_nav-container">
+                        <a class="navbar-brand" href="index.html">
+                            <span>
+                                8 Ball Pool
+                            </span>
+                        </a>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class=""></span>
+                        </button>
+
+                        <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between" id="navbarSupportedContent">
+                            <ul class="navbar-nav  ">
+                                <li class="nav-item active">
+                                    <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                                </li>
+
+                                @if (loggedUser != null)
+                                {
+                                    <li class="nav-item dropdown --bs-body-bg">
+                                        <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            Games
+                                        </a>
+                                        <div class="dropdown-menu dark" aria-labelledby="navbarDropdown">
+                                            @if (loggedUser != null)
+                                            {
+                                                <a class="nav-link" asp-area="" asp-controller="Game" asp-action="Index">Game</a>
+                                            }
+                                            @if (loggedUser != null && loggedUser.IsAdmin)
+                                            {
+                                                <a class="nav-link" asp-controller="Game" asp-action="Create">Create Game</a>
+                                                <a class="nav-link" asp-controller="Game" asp-action="Admin">Admin</a>
+                                            }
+                                        </div>
+                                    </li>
+
+
+                                }
+                                @if (loggedUser != null)
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-area="" asp-controller="Table" asp-action="Index">Tables</a>
+                                    </li>
+                                }
+                                @if (loggedUser != null)
+                                {
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            Game Reservations
+                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                            @if (loggedUser != null && loggedUser.IsAdmin)
+                                            {
+                                                <a class="nav-link" asp-controller="GameReservation" asp-action="Index">Admin</a>
+                                                <a class="nav-link" asp-area="" asp-controller="GameReservation" asp-action="ShowGameHistory">ShowGameHistory</a>
+                                            }
+
+                                            <a class="nav-link" asp-controller="GameReservation" asp-action="Create">Create Reservation</a>
+                                            <a class="nav-link" asp-route-id="@loggedUser.Id" asp-controller="GameReservation" asp-action="MyReservation">My Reservations</a>
+                                        </div>
+                                    </li>
+                                }
+                                @if (loggedUser != null)
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-area="" asp-controller="Login" asp-action="Logout">Logout</a>
+                                    </li>
+                                }
+                                else
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-area="" asp-controller="Login" asp-action="Index">Login</a>
+                                    </li>
+                                }
+                              <!-- 
+                                 <li class="nav-item active">
+                                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="about.html"> About</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="service.html"> Services </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="guard.html"> Guards </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="contact.html">Contact us</a>
+                                </li>
+                                -->
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <!-- end header section -->
+        <!-- slider section -->
+        <section class=" slider_section ">
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-7">
+                                    <div class="detail-box">
+                                        <h1>
+                                            Are you ready <br>
+                                            <span>
+                                            to play some games?
+                                            </span>
+                                        </h1>
+                                        <p>
+                                            Unleash the Fun: Dive into a World of Exitiment with Our Club Games!
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </section>
+        <!-- end slider section -->
+    </div>
+    <br>
+    <br>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+                 @RenderBody()
+        </main>
+    </div>
+    <!-- footer section -->
+     <br>
+    <br>
+    <footer class="container-fluid footer_section">
+        <div class="container text-center">
+            <p>&copy; 2024 Your Company. All rights reserved.</p>
+            <br>
+            <!-- Social links with icons -->
+            <div class="social-icons">
+                <a href="https://www.facebook.com/zafer.bayraktarov" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
+                <a href="https://twitter.com/Zafer0323" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+                <a href="https://www.instagram.com/zaferbayraktarov/" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+                <a href="https://www.linkedin.com/in/zafer-bayraktarov-3958a1268/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
+            </div>
+        </div>
+    </footer>
+    <!-- footer section -->
+
+    <script src="~/js/jquery-3.4.1.min.js"></script>
+    <script src="~/js/bootstrap.js"></script>
+    <script src="~/js/custom.js"></script>
+
+</body>
+
+</html>

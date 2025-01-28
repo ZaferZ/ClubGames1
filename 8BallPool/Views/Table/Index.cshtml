@@ -1,0 +1,57 @@
+﻿@model ShowVM
+<div class="container mt-10">
+    <div class="row justify-content-center">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-header">
+                    <h4>Table List</h4>
+                </div>
+                <div class="card-body">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>TableNumber</th>
+                                <th>Game</th>
+                                <th>Number of Players</th>
+                                <th width ="20%">Price For Hour</th>
+                                <th>Points</th>
+                                <th>IsReserved</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Example User Row (replace with actual user data) -->
+                            @foreach (TablesVM u in Model.Tables)
+                            {
+                                <tr>
+                                    <td>@u.Id</td>
+                                    <td>@u.TableName</td>
+                                    <td>@u.GameName</td>
+                                    <td>@u.NumberOfPlayers</td>
+                                    <td>@u.PriceForHour<td>
+                                    <td>@u.Points<td>
+                                    <td>@u.IsReserved</td>
+
+                                    <td>
+                                        <a class="btn btn-primary btn-sm"
+                                           asp-route-id="@u.Id"
+                                           asp-action="Edit"
+                                           asp-controller="Table">Edit</a>
+                                    </td>
+                                    <td>
+                                        <a asp-route-id="@u.Id"
+                                           asp-action="Remove"
+                                           asp-controller="Table"
+                                           class="btn btn-danger btn-sm">Delete</a>
+                                    </td>
+                                </tr>
+
+                            }
+                        </tbody>
+                    </table>
+                    <a class="btn btn-primary btn-sm" asp-area="" asp-controller="Table" asp-action="Create">Create Table</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
